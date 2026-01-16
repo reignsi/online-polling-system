@@ -11,12 +11,12 @@ main {
   padding: 0 20px;
   overflow-x: hidden;
 }
-.body {
+.body{
   background: rgba(0, 0, 0, 0.4);
   overflow-y: hidden;
 }
 
-.type {
+.type{
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 35px;
@@ -97,7 +97,7 @@ ul a:hover {
   opacity: .4;
 }
 
-b {
+b{
   font-style: italic;
   color: steelblue;
   margin: 10px 0;
